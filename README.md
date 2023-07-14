@@ -1,1 +1,1 @@
-# Methods_Of_Numerical_Analysis
+# BSU Programming Tasks
